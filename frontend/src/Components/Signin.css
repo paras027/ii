@@ -1,0 +1,91 @@
+.abc{
+    color:darkblue ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    padding: 10px 40px;
+}
+.bb{
+    margin: 5px;
+    padding: 5px;
+    background-color: darkblue ;
+    color: white;
+}
+
+.bb:hover{
+    background-color: white;
+    color: darkblue ;
+
+}
+.qr{
+    padding-right: 40px;
+}
+
+
+.ff:hover{
+    cursor: pointer;
+}
+
+
+.border{
+    border:darkblue solid;
+    margin: 50px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: darkblue;
+    box-shadow: 5px 5px 10px rgb(119, 118, 118);
+    width: 20%;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.input{
+    padding: 5px;
+    margin: 10px;
+}
+
+.btn{
+    background-color: darkblue !important;
+    color: white;
+    padding: 5px;
+}
+
+.font{
+    margin-top: 10px;
+    font-weight: normal;
+    padding: 10px;
+    font-size: small;
+}
+
+span:hover{
+
+    background-color: darkblue !important;
+    color: white !important;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.ff2{
+    padding: 5px;
+    font-size: medium !important;
+    font-weight: lighter !important;
+    color: darkblue !important;
+}
+.ff3{
+    padding: 5px;
+    color: darkblue !important;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: large;
+}

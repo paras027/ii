@@ -1,0 +1,92 @@
+.abc2{
+    color:darkblue ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    padding: 10px 40px;
+}
+.bb{
+    margin: 5px;
+    padding: 5px;
+    background-color: darkblue ;
+    color: white;
+}
+
+.bb:hover{
+    background-color: white;
+    color: darkblue ;
+
+}
+.qr{
+    padding-right: 40px;
+}
+
+
+.ff:hover{
+    cursor: pointer;
+}
+
+.container2{
+    
+    padding:30px;
+    font-weight: bold;
+}
+.border{
+    border:darkblue solid;
+    margin: 50px;
+}
+
+.abc3{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.alone1{
+    width: 3%;
+    display: flex;
+    justify-content: center;
+}
+.alone2{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+.alone3{
+    width: 16%;
+    display: flex;
+    justify-content: center;
+}
+.alone4{
+    display: flex;
+    justify-content: center;
+}
+
+.alone5{
+    width: 9%;
+    display: flex;
+    justify-content: center;
+  
+}
+.alone6{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+.alone7{
+    width: 9%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+   
+}
